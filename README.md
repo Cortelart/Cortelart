@@ -1,7 +1,7 @@
 ### Olá, sou Cortelart 👋
 
 - 🔭 Atualmente sou designer front-end
-- 🌱 C# e Typescript
+- 🌱 Estudando C# e Typescript
 - 💬 Love tech, design and art
 
 ##
