@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou designer front-end
 - 🌱 Estudando C# e Typescript
-- 💬 Love tech, design and art
+- 💬 Também sou tatuador e ilustrador! 
 
 ##
 
