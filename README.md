@@ -1,8 +1,8 @@
-### Olá, sou Cortelart 👋
+### Hi, i'm Cortelart 👋
 
-- 🔭 Atualmente sou designer front-end
-- 🌱 Estudando C# e Typescript
-- 💬 Também sou tatuador e ilustrador! 
+- 🔭 Graduate designer 
+- 🌱 Learning C# and JS
+- 💬 I'm also an tattoo artist! check out my profile @cortelart
 
 ##
 
